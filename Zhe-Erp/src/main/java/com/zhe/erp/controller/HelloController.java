@@ -6,4 +6,7 @@ package com.zhe.erp.controller;
  */
 
 public class HelloController {
+    public void m1() {
+        System.out.println("这是2.0版本...");
+    }
 }
